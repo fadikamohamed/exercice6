@@ -1,0 +1,14 @@
+#div1{
+  display: flex;
+}
+.vert{
+  width: 80%;
+  height: 10px;
+  background-color: green;
+}
+.bleu{
+  width: 20%;
+  height: 10px;
+  background-color: blue;
+}
+ls
